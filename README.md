@@ -1,11 +1,15 @@
 # Make your first Kaggle submission!
 
-The Jupyter notebook goes through the Kaggle Titanic dataset via an exploratory data analysis (EDA) with Python and finishes with making a submission.
+## Can we predict who would've survived the Titanic?
 
-You can download the data from this repo or [directly from Kaggle](https://www.kaggle.com/c/titanic).
+### This notebook goes through a basic exploratory data analysis of the Kaggle Titanic dataset with Python
 
-If you find any bugs, or make any improvements on the results in the notebook, I'd love to hear. 
+Although this notebook works towards creating a Kaggle submission, it should not be taken as exhaustive list of things to do with a dataset. It has been setup as an introduction to get you started with exploratory data analysis (EDA).
 
-Ping me anytime: https://www.linkedin.com/in/shokatsaifi/
+There are challenges and extensions listed throughout. I encourage you to take the foundations here and build upon them.
 
-Stay tuned for a blog post detailing the steps taken in the notebook soon.
+If you complete the challenges or get a better score than the one listed at the bottom of this notebook, please let me know at https://www.linkedin.com/in/shokatsaifi/
+
+Keep learning,
+
+Shokat
